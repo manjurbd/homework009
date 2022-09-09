@@ -1,0 +1,1 @@
+Built-in APIs and ETL allow everyone to make data-informed decisions—no analyst required. No need to build a mobile version—the Domo mobile app is a native part of the platform.
